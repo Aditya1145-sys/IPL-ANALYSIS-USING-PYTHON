@@ -16,39 +16,39 @@
 
 # Analysis
 
-o Highest scorer batter in in overall IPL
+o How many matches were played in total between 2008–2020?
 
-o Lowest scorer batters in in overall IPL
+o Find out the number of matches hosted in each city.
 
-o Bowler who takes the highest number of wickets overall IPL
+o Which team has won the most tosses overall
 
-o Bowler who takes zero wickets overall IPL
+o How many matches ended with a result = "tie"?
 
-o Stats of top 5 bowlers
+o Who won the first ever IPL match (2008) and who was the Player of the Match?
 
-o Top fielder who takes catches
+o Count the number of times each team won the IPL Final (using "winner" column for final matches only).
 
-o Top fielder who takes run out
+o Which season (year) had the highest number of matches played?
 
-o Wickets stats between catches and run-out
+o Find the total number of deliveries bowled in the dataset.
 
-o No. of toss won by each team with stats
+o Who has hit the most sixes across all seasons?
 
-o Match winner teams after winning the toss
+o Who has bowled the most dot balls in IPL history (2008–2020)?
 
-o Are there any advantages in winning the match after winning the toss?
+o Which batsman has scored the most runs against a single bowler?
 
-o The most successful IPL teams
+o Which batsman has been dismissed the most times by a single bowler?
 
-o Most sixes and most fours by individual and teams
+o combined (matches + deliveries)
 
-o Most likely decision after winning the toss
+o Find out the highest individual score in a single match.
 
-o Most likely a decision after winning the toss team-wise
+o Find the average first-innings score across all IPL matches.
 
-o No. of matches hosted by different cities
+o What’s the win percentage of teams winning the toss?
 
-o Lucky stadium for the topmost team
+o Team with most runs in a single match
 
 
 # Challenges and Learnings
