@@ -16,7 +16,7 @@
 
 # Analysis
 
-o How many matches were played in total between 2008–2020?
+o How many matches were played in total between 2008–2024?
 
 o Find out the number of matches hosted in each city.
 
