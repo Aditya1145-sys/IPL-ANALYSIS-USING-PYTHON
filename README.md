@@ -16,7 +16,7 @@
 
 # Analysis
 
-Highest scorer batter in in overall IPL
+o Highest scorer batter in in overall IPL
 
 o Lowest scorer batters in in overall IPL
 
